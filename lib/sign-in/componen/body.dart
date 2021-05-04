@@ -1,7 +1,5 @@
 import 'dart:ui';
 
-import 'package:first_app/components/no_account.dart';
-
 import 'package:first_app/sign-in/componen/sign_form.dart';
 import 'package:flutter/material.dart';
 
@@ -30,8 +28,8 @@ class Body extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: (20),
-                    fontWeight: FontWeight.bold,
+                    fontSize: (27),
+                    // fontWeight: FontWeight.bold,
                   ),
                 ),
                 SizedBox(
