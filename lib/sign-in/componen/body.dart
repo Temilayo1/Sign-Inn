@@ -23,22 +23,22 @@ class Body extends StatelessWidget {
             child: Column(
               children: <Widget>[
                 SizedBox(
-                  height: 120,
+                  height: 100,
                 ),
                 Text(
-                  "Welcome Back",
+                  "Sign In",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: (27),
+                    fontSize: (20),
                     fontWeight: FontWeight.bold,
                   ),
                 ),
                 SizedBox(
-                  height: 15,
+                  height: 90,
                 ),
                 Text(
-                  "Sign in with your email and password \nto continue",
+                  "WELCOME BACK",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.white,
