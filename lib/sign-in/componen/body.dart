@@ -31,7 +31,7 @@ class Body extends StatelessWidget {
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: (27),
-                    fontWeight: FontWeight.bold,
+                   // fontWeight: FontWeight.bold,
                   ),
                 ),
                 SizedBox(
